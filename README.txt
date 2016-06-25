@@ -1,1 +1,3 @@
 Il s'agit du fichier txt pour présenter le projet mais je ne sais pas quoi dire ...
+
+Ah si en fait je sais quoi ... GIT c'est super !
